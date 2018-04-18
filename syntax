@@ -1,0 +1,9 @@
+1.split()方法使用
+指定分隔符对字符串进行切片，如果参数num有指定值，则仅分隔num个子字符串#语法str.split(str="", num=string.count(str))
+在使用一行多个输入时，可以使用 a, b, c = input().split()
+
+2.sort()和sorted()方法使用
+sort()仅对list本身进行排序，sorted()会产生一个副本，对副本进行排序，序列本身不做修改。元组不能使用该方法
+sort()方法仅被定义在list中，而sorted()方法对所有的可迭代序列都有效
+
+3.
